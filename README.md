@@ -9,7 +9,7 @@
 
 - 📫 Reach me **dharshitherra@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1IcJwsor0sOsDJ492z9zbjGwV8yVY4M7G/view?usp=sharing](https://drive.google.com/file/d/1IcJwsor0sOsDJ492z9zbjGwV8yVY4M7G/view?usp=sharing)
+- 📄 Know about me [https://drive.google.com/file/d/1IcJwsor0sOsDJ492z9zbjGwV8yVY4M7G/view?usp=sharing](https://drive.google.com/file/d/1Z_2ivIRYgt9F3gK7XED3yeX_agMwJ1fA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
