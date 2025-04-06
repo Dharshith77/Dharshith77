@@ -11,7 +11,7 @@
 
 - 📄 Know about me [https://drive.google.com/file/d/1IcJwsor0sOsDJ492z9zbjGwV8yVY4M7G/view?usp=sharing](https://drive.google.com/file/d/1Z_2ivIRYgt9F3gK7XED3yeX_agMwJ1fA/view?usp=sharing)
 
-- 🤖 Check my [Portfolio](https://dharshith--portfolio.vercel.app)
+- 🤖 Check my [Portfolio Website](https://dharshith--portfolio.vercel.app)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dharshith-erra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharshith-erra-027789218/" height="30" width="40" /></a>
