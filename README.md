@@ -8,7 +8,7 @@
 
 - 📫 Reach me **dharshitherra@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1rJtr6IdjUwsiVlkhNgSK8yQM0VDDJ0Yc/view?usp=drive_link](https://drive.google.com/file/d/1rJtr6IdjUwsiVlkhNgSK8yQM0VDDJ0Yc/view?usp=drive_link)
+- 📄 Know about me [https://drive.google.com/file/d/1A1oz9vK1vVTS1qfPox4p7RuqIps2UzhA/view?usp=sharing](https://drive.google.com/file/d/1A1oz9vK1vVTS1qfPox4p7RuqIps2UzhA/view?usp=sharing)
 
 - 🤖 Check my [Portfolio Website](https://dharshith--portfolio.vercel.app)
 <h3 align="left">Connect with me:</h3>
